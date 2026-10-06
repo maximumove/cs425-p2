@@ -14,6 +14,13 @@ This project was the first were the use of AI for most of the project was activl
 
 As for the pre prompt planning, since the assignment was very clear in what it wanted, and the chapter of the book it covered had already been tested, and thus I knew it well, it was pretty easy overall. Most of it was spent looking at details and understanding why it worked rather than trying to figure out what would work. Again, I found this to be much more enjoyable. I encounted very little struggle with this assignment, which was delightful.
 
+## Results
+
+table
+1.
+2.
+3.
+
 ## Analysis
 
 TODO: Provide your analysis of the results. If the assignment does not require
